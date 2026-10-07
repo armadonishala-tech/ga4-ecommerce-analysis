@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project exploring user behavior on the **Google Merchandise Store**, using Google's public GA4 e-commerce sample dataset. The analysis covers funnel drop-off, channel performance, device behavior, and revenue — including a statistical test to validate whether paid traffic actually underperforms organic traffic.
 
-🔗 **[View the interactive dashboard on Tableau Public →](PASTE_YOUR_TABLEAU_LINK_HERE)**
+🔗 **[View the interactive dashboard on Tableau Public →](https://public.tableau.com/app/profile/armend.shala/viz/GA4E-commerceBehaviorAnalysis/E-commerceUserBehaviorAnalysisGoogleMerchandiseStore)**
 
 ![Dashboard overview](images/dashboard_overview.png)
 
